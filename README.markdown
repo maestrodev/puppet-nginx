@@ -1,5 +1,7 @@
 # NGINX Module
 
+Forked just to deploy to the Puppet Forge, available under http://forge.puppetlabs.com/maestrodev/nginx
+
 James Fryman <james@frymanet.com>
 
 This module manages NGINX from within Puppet.
